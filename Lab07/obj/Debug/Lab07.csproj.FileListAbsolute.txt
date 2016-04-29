@@ -1,0 +1,9 @@
+c:\users\jon\documents\visual studio 2015\Projects\Lab07\Lab07\bin\Debug\Lab07.exe.config
+c:\users\jon\documents\visual studio 2015\Projects\Lab07\Lab07\obj\Debug\Lab07.csprojResolveAssemblyReference.cache
+c:\users\jon\documents\visual studio 2015\Projects\Lab07\Lab07\obj\Debug\Lab07.Form1.resources
+c:\users\jon\documents\visual studio 2015\Projects\Lab07\Lab07\obj\Debug\Lab07.Properties.Resources.resources
+c:\users\jon\documents\visual studio 2015\Projects\Lab07\Lab07\obj\Debug\Lab07.csproj.GenerateResource.Cache
+C:\Users\Jon\Documents\Visual Studio 2015\Projects\Lab07\Lab07\bin\Debug\Lab07.exe
+C:\Users\Jon\Documents\Visual Studio 2015\Projects\Lab07\Lab07\bin\Debug\Lab07.pdb
+C:\Users\Jon\Documents\Visual Studio 2015\Projects\Lab07\Lab07\obj\Debug\Lab07.exe
+C:\Users\Jon\Documents\Visual Studio 2015\Projects\Lab07\Lab07\obj\Debug\Lab07.pdb
